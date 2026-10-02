@@ -96,7 +96,7 @@ export function InvitationForm({
         <input
           id="invitationUrl"
           type="url"
-          placeholder="https://yourdomain.com/wedding-invitation/#/invite"
+          placeholder="https://pasinduchathumadu.github.io/wedding-invitation/#/invite"
           value={data.invitationUrl}
           onChange={(e) =>
             updateField(

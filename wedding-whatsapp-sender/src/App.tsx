@@ -7,7 +7,7 @@ import { InvitationPreview } from "./components/InvitationPreview";
 import type { InvitationData } from "./types/invitation";
 
 const DEFAULT_INVITATION_URL =
-  "https://yourdomain.com/wedding-invitation/#/invite";
+  "https://pasinduchathumadu.github.io/wedding-invitation/#/invite";
 
 function App() {
   const [data, setData] = useState<InvitationData>({
